@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @carlwuaku
-- 👀 I’m interested in web and mobile development. I am also an AI enthusiast
-- 🌱 I’m currently learning Flutter and Python for machine learning
-
-- 📫 To reach me, send a mail at wuakuc@gmail.com
+- 👋 Hi, I’m Carl Wuaku
+- 👀 I’ve been a developer since 2015
+- My stack includes: PHP - Codeigniter, MySQL, SQLite, Node.js, Typescript & Javascript, Angular, React, Electron, HTML/CSS, Flutter, Java, Android
+- 📫 To reach me, send an email at wuakuc@gmail.com
 
 <!---
 carlwuaku/carlwuaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
